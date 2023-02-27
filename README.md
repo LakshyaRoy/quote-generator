@@ -5,3 +5,6 @@ like direct twitter post.
 ## Website url
 https://random-quotes-generator-lakshyaroy.netlify.app/
 
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/LakshyaRoy/quote-generator/master/Screenshot%202023-02-27%20113650.png)
